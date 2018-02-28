@@ -9,7 +9,7 @@ It is mainly based on [Liao Xuefeng's python3 tutorial][1], also including some 
 If you're a real novice on python just like me, and do want to get the main points fastly. This tutorial is just for you.
 
 ## Tutorial
-+ Basic Python3
++ **Basic Python3**
   * 00 [Introducton][10]
   * 01 [Main Datatypes in Python][11]
   * 02 [Character Encoding][12]  
@@ -17,7 +17,7 @@ If you're a real novice on python just like me, and do want to get the main poin
   * 04 [Basically Looping][14]  
   * 05 [Print Methods / Formatted Output][15]  
 
-+ Function
++ **Function**
   * 00 [Def Function & Parameters][20]
   * 01 [Functional Programming:map/reduce/zip/filter/sorted/lambda][21]
   * 02 [Decorator][22]
@@ -25,12 +25,23 @@ If you're a real novice on python just like me, and do want to get the main poin
   * 04 [Pythonic Way: iterator][24]
   * 05 [File IO][25]
 
++ **Object Oriented Programming-OOP**
+  * 00 [Model][30]
+  * 01 [Object_Class(Basic):Class/Inherite/Polymorphism][31]
+  * 02 [Object_Oriented_Programming(OOP)][32]
+  * 03 [Object_Oriented_Programming(OOP)High Level][33]
 
++ **Exception Handling**
+  * 00 [Exception Handling-A: try...except...finally...][40]
+  * 01 [Exception Handling-B][41]
 
-
-
-
-
++ **Multi Threading&Processing**
+  * 00 [Multi_Threading][50]
+  * 01 [Multi_Processing][51]
+  
++ **Others**
+  * 00 [Regular_Expression][61]
+  * 01 [Usual_Built-in_Model][62]
 
 
 
@@ -53,9 +64,16 @@ If you're a real novice on python just like me, and do want to get the main poin
 [24]: https://github.com/Huixxi/Python3-For-Novice/blob/master/01%20Function/04_Pythonic_Way.ipynb
 [25]: https://github.com/Huixxi/Python3-For-Novice/blob/master/01%20Function/05_FILE_IO.ipynb
 
+[30]: https://github.com/Huixxi/Python3-For-Novice/blob/master/02%20Object%20Oriented%20Programming-OOP/00_Model.ipynb
+[31]: https://github.com/Huixxi/Python3-For-Novice/blob/master/02%20Object%20Oriented%20Programming-OOP/01_Object_Class(Basic).ipynb
+[32]: https://github.com/Huixxi/Python3-For-Novice/blob/master/02%20Object%20Oriented%20Programming-OOP/02_Object_Oriented_Programming(OOP).ipynb
+[33]: https://github.com/Huixxi/Python3-For-Novice/blob/master/02%20Object%20Oriented%20Programming-OOP/03_Object_Oriented_Programming(OOP)_High_Level.ipynb
 
+[40]: https://github.com/Huixxi/Python3-For-Novice/blob/master/03%20Exception%20Handling/00_Exception_Handling-A.ipynb
+[41]: https://github.com/Huixxi/Python3-For-Novice/blob/master/03%20Exception%20Handling/01_Exception_Handling-B.ipynb
 
+[50]: https://github.com/Huixxi/Python3-For-Novice/blob/master/04%20Multi%20Threading_Processing/00_Multi_Threading.ipynb
+[51]: https://github.com/Huixxi/Python3-For-Novice/blob/master/04%20Multi%20Threading_Processing/01_Multi_Processing.ipynb
 
-
-
-
+[61]: https://github.com/Huixxi/Python3-For-Novice/blob/master/05%20Others/00_Regular_Expression.ipynb
+[62]: https://github.com/Huixxi/Python3-For-Novice/blob/master/05%20Others/01_Usual_Built-in_Model.ipynb
