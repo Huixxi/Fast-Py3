@@ -1,3 +1,4 @@
+![](https://github.com/Huixxi/Fast-Py3/blob/master/images/a.jpg)
 # A Fast Python3 tutoial For Beginners.  
 Python is a very popular programming language which is very useful, powerful, interesting and easy to learn.  
 
