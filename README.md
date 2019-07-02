@@ -9,6 +9,10 @@ It is mainly based on [Liao Xuefeng's Python3 Tutorial][1] and book [Begining Py
 ## Installation
 Go python official website: https://www.python.org/ to download and install.(If you are using Linux(ubuntu/redhat...) or Mac, there is no need to do so, because python is a build-in software on these platforms.)
 
+## Python IDE Recommend
+* [PyCharm](https://www.jetbrains.com/pycharm/) is highly recommended. It is free(the community version), concise and efficient. 
+* [Jupyter Notebook](https://jupyter.org/) is also highly recommended. It is fast, lightweight, interactive and efficient. You will fall in love with it immediately.
+
 ## Tutorial Catalogue
 + **Basic Python3**
   * 00 [Introducton][10]
