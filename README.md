@@ -14,9 +14,10 @@ Go python official website: https://www.python.org/ to download and install.(If 
 * [Jupyter Notebook](https://jupyter.org/) is also highly recommended. It is fast, flexible, lightweight, interactive and efficient, which is suited to small script coding and testing. You will fall in love with it immediately. [How to setup jupyter notebook.][3]
 
 ## Tutorial Catalogue
+Online versions are available, just click the `[Online]` link to run the demo.
 + **Basic Python3**
-  * 00 [Basic Py3][10] [Online Version][100]
-  * 01 [String][11] [Online Version][101]
+  * 00 [Basic Py3][10] [[Online]][100]
+  * 01 [String][11] [[Online]][101]
   * 02 [Character Encoding][12]  
   * 03 [Conditionals][13]  
   * 04 [Basically Looping][14]  
