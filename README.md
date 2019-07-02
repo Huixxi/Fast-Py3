@@ -5,6 +5,9 @@ Python is a very popular programming language which is very useful, powerful, in
 This is a basic tutorial of python3 for beginners. From **Basic Datatypes** to **Object Oriented Programming(OOP)**.   
 It is mainly based on [Liao Xuefeng's Python3 Tutorial][1] and book [Begining Python from Novice to Professional 3rd Edition][2]. It also includes some other useful points about python3.  
 
+## Installation
+Go Python Official Website: https://www.python.org/ Download and Install.(If you are using Linux(Ubuntu/RedHat...) or Mac, there is no need to do so, because python is a build-in software on these platform.)
+
 ## Tutorial Catalogue
 + **Basic Python3**
   * 00 [Introducton][10]
