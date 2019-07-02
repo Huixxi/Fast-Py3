@@ -2,13 +2,10 @@
 Python is a very popular programming language which is very useful, powerful, interesting and easy to learn.  
 
 ## Introduction.
-There is a basic fast tutorial of python3 for the beginners. From **Basic Datatypes** to **Object Oriented Programming(OOP)**.   
-It is mainly based on [Liao Xuefeng's python3 tutorial][1], also including some other useful knowledge points about python3.  
+This is a basic tutorial of python3 for beginners. From **Basic Datatypes** to **Object Oriented Programming(OOP)**.   
+It is mainly based on [Liao Xuefeng's python3 tutorial][1], also includes some other useful points about python3.  
 
-## What I want to say.
-If you're a real novice on python just like me, and do want to get the main points fastly. This tutorial is just for you.
-
-## Tutorial
+## Tutorial Catalogue
 + **Basic Python3**
   * 00 [Introducton][10]
   * 01 [Main Datatypes in Python][11]
