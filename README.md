@@ -11,7 +11,7 @@ Go python official website: https://www.python.org/ to download and install.(If 
 
 ## Python IDE Recommend
 * [PyCharm](https://www.jetbrains.com/pycharm/) is highly recommended. It is free(the community version), concise and efficient, which is suited to large project development.
-* [Jupyter Notebook](https://jupyter.org/) is also highly recommended. It is fast, flexible, lightweight, interactive and efficient, which is suited to small script coding and testing. You will fall in love with it immediately. [How to setup jupyter notebook](https://www.cycygogo.cn/2017/06/09/Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8A%E6%90%AD%E5%BB%BATensorFlow%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83/)
+* [Jupyter Notebook](https://jupyter.org/) is also highly recommended. It is fast, flexible, lightweight, interactive and efficient, which is suited to small script coding and testing. You will fall in love with it immediately. [How to setup jupyter notebook.](https://www.cycygogo.cn/2017/06/09/Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8A%E6%90%AD%E5%BB%BATensorFlow%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83/)
 
 ## Tutorial Catalogue
 + **Basic Python3**
