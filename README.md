@@ -3,7 +3,7 @@ Python is a very popular programming language which is very useful, powerful, in
 
 ## Introduction.
 This is a basic tutorial of python3 for beginners. From **Basic Datatypes** to **Object Oriented Programming(OOP)**.   
-It is mainly based on [Liao Xuefeng's Python3 Tutorial][1] and book [Begining Python from Novice to Professional Third Edition][2]. It also includes some other useful points about python3.  
+It is mainly based on [Liao Xuefeng's Python3 Tutorial][1] and book [Begining Python from Novice to Professional 3rd Edition][2]. It also includes some other useful points about python3.  
 
 ## Tutorial Catalogue
 + **Basic Python3**
