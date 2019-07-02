@@ -11,12 +11,12 @@ Go python official website: https://www.python.org/ to download and install.(If 
 
 ## Python IDE Recommend
 * [PyCharm](https://www.jetbrains.com/pycharm/) is highly recommended. It is free(the community version), concise and efficient, which is suited to large project development.
-* [Jupyter Notebook](https://jupyter.org/) is also highly recommended. It is fast, flexible, lightweight, interactive and efficient, which is suited to small script coding and testing. You will fall in love with it immediately. [How to setup jupyter notebook.](https://www.cycygogo.cn/2017/06/09/Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8A%E6%90%AD%E5%BB%BATensorFlow%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83/)
+* [Jupyter Notebook](https://jupyter.org/) is also highly recommended. It is fast, flexible, lightweight, interactive and efficient, which is suited to small script coding and testing. You will fall in love with it immediately. [How to setup jupyter notebook.][3]
 
 ## Tutorial Catalogue
 + **Basic Python3**
-  * 00 [Introducton][10]
-  * 01 [Main Datatypes in Python][11]
+  * 00 [Basic Py3][10] [Online Version][100]
+  * 01 [String][11] [Online Version][101]
   * 02 [Character Encoding][12]  
   * 03 [Conditionals][13]  
   * 04 [Basically Looping][14]  
@@ -55,9 +55,12 @@ Go python official website: https://www.python.org/ to download and install.(If 
 
 [1]: https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
 [2]: https://www.oreilly.com/library/view/beginning-python-from/9781484200285/
+[3]: https://www.cycygogo.cn/2017/06/09/Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8A%E6%90%AD%E5%BB%BATensorFlow%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83/
 
-[10]: https://github.com/Huixxi/Python3-For-Novice/blob/master/00%20Basic%20Python3/00_Introduction.ipynb
-[11]: https://github.com/Huixxi/Python3-For-Novice/blob/master/00%20Basic%20Python3/01_Main_Datatypes.ipynb
+
+
+[10]: https://github.com/Huixxi/Fast-Py3/blob/master/00%20Basic%20Python3/00_Basic_Py3.ipynb
+[11]: https://github.com/Huixxi/Fast-Py3/blob/master/00%20Basic%20Python3/01_String.ipynb
 [12]: https://github.com/Huixxi/Python3-For-Novice/blob/master/00%20Basic%20Python3/02_Character_Encoding.ipynb
 [13]: https://github.com/Huixxi/Python3-For-Novice/blob/master/00%20Basic%20Python3/03_Conditionals.ipynb
 [14]: https://github.com/Huixxi/Python3-For-Novice/blob/master/00%20Basic%20Python3/04_Basically_Looping.ipynb
@@ -83,3 +86,7 @@ Go python official website: https://www.python.org/ to download and install.(If 
 
 [61]: https://github.com/Huixxi/Python3-For-Novice/blob/master/05%20Others/00_Regular_Expression.ipynb
 [62]: https://github.com/Huixxi/Python3-For-Novice/blob/master/05%20Others/01_Usual_Built-in_Model.ipynb
+
+
+[100]: https://colab.research.google.com/drive/1MCXL3TyFveA7ByTnZ2lvisQhxvlkBJbx
+[101]: https://colab.research.google.com/drive/1dxJ_ct3rzeq99G9kAN5xVmwALk9ymzdF
