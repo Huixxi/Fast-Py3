@@ -18,7 +18,7 @@ Online versions are available, just click the [`Online`] link to run the demo.
 + **Basic Python3**
   * 00 [Basic Py3][10] **[**[Online][100]**]**
   * 01 [String][11] **[**[Online][101]**]**
-  * 02 [Character Encoding][12]  
+  * 02 [List & Tuple][12] **[**[Online][102]**]**
   * 03 [Conditionals][13]  
   * 04 [Basically Looping][14]  
   * 05 [Print Methods / Formatted Output][15]  
@@ -62,7 +62,7 @@ Online versions are available, just click the [`Online`] link to run the demo.
 
 [10]: https://github.com/Huixxi/Fast-Py3/blob/master/00%20Basic%20Python3/00_Basic_Py3.ipynb
 [11]: https://github.com/Huixxi/Fast-Py3/blob/master/00%20Basic%20Python3/01_String.ipynb
-[12]: https://github.com/Huixxi/Python3-For-Novice/blob/master/00%20Basic%20Python3/02_Character_Encoding.ipynb
+[12]: https://github.com/Huixxi/Fast-Py3/blob/master/00%20Basic%20Python3/02_List_Tuple.ipynb
 [13]: https://github.com/Huixxi/Python3-For-Novice/blob/master/00%20Basic%20Python3/03_Conditionals.ipynb
 [14]: https://github.com/Huixxi/Python3-For-Novice/blob/master/00%20Basic%20Python3/04_Basically_Looping.ipynb
 [15]: https://github.com/Huixxi/Python3-For-Novice/blob/master/00%20Basic%20Python3/05_Print_Methods.ipynb
@@ -90,4 +90,5 @@ Online versions are available, just click the [`Online`] link to run the demo.
 
 
 [100]: https://colab.research.google.com/drive/1MCXL3TyFveA7ByTnZ2lvisQhxvlkBJbx
-[101]: https://colab.research.google.com/drive/1dxJ_ct3rzeq99G9kAN5xVmwALk9ymzdF
+[101]: https://colab.research.google.com/drive/1YrxK5Mm1OaiwlO5UdZvu-ZO-GBu898Oz
+[102]: https://colab.research.google.com/drive/1U_x_--uB0Mp3ZL9zsND3garaPeOip13N
