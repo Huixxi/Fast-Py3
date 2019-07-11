@@ -26,7 +26,7 @@ Online versions are available, just click the [`Online`] link to run the demo.
   * 04 [Conditionals][14] **[**[Online][104]**]**
   * 05 [Basic Looping][15] **[**[Online][105]**]**
   * 06 [Character Encoding][16] **[**[Online][106]**]**
-  * 06 [Formatted Output][17] **[**[Online][107]**]**
+  * 07 [Formatted Output][17] **[**[Online][107]**]**
 
 + **Function**
   * 00 [Def Function & Parameters][20]
