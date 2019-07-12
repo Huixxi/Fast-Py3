@@ -29,12 +29,12 @@ Online versions are available, just click the [`Online`] link to run the demo.
   * 07 [Formatted Output][17] **[**[Online][107]**]**
 
 + **Function**
-  * 00 [Def Function & Parameters][20]
-  * 01 [Functional Programming:map/reduce/zip/filter/sorted/lambda][21]
-  * 02 [Decorator][22]
-  * 03 [Generator][23]
-  * 04 [Pythonic Way: iterator][24]
-  * 05 [File IO][25]
+  * 00 [Def Function & Parameters][20] **[**[Online][200]**]**
+  * 01 [Functional Programming:map/reduce/zip/filter/sorted/lambda][21] **[**[Online][201]**]**
+  * 02 [Decorator][22] **[**[Online][202]**]**
+  * 03 [Generator][23] **[**[Online][203]**]**
+  * 04 [Pythonic Way: iterator][24] **[**[Online][204]**]**
+  * 05 [File IO][25] **[**[Online][205]**]**
 
 + **Object Oriented Programming-OOP**
   * 00 [Model][30]
@@ -104,3 +104,10 @@ Online versions are available, just click the [`Online`] link to run the demo.
 [105]: https://colab.research.google.com/drive/1o69TicBWP9mL9T-W6yDXo07yi3Axy7vU
 [106]: https://colab.research.google.com/drive/1iLD23S2iYaACKBIoeS7Xbigi_NsGLY6R
 [107]: https://colab.research.google.com/drive/1itxOHfzc5E5B3Wrnj9e5EfsvxUNlw_Oi
+
+[200]: https://colab.research.google.com/drive/17n80tonpWMo8L4nV3NwWUFjh60IVuI-P
+[201]: https://colab.research.google.com/drive/1sT9NakRuhI1Jw1Rv_fR221aZ1TenavDA
+[202]: https://colab.research.google.com/drive/1Rok7oCS1wws3KT7277m4l0nEl7nCnJSH
+[203]: https://colab.research.google.com/drive/1QWC-BG3QRZbTjh0MFHcJbLQ2hm1XLOGR
+[204]: https://colab.research.google.com/drive/17QAfi0SLWWsuEBbOvqf2myBXcj7gnD_u
+[205]: https://colab.research.google.com/drive/1pOEFqMI9jStiy902gdyvZ1WwTg_lXGSp
