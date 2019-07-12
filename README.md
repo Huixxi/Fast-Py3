@@ -18,6 +18,7 @@ Go python official website: https://www.python.org/ to download and install.(If 
 
 ## Useful Websites
 * [Time Complexity Fast Check.](https://wiki.python.org/moin/TimeComplexity)
+* [A Guide To Use `super()`](https://rhettinger.wordpress.com/2011/05/26/super-considered-super/)
 
 ## Tutorial Catalogue
 Online versions are available, just click the [`Online`] link to run the demo.
