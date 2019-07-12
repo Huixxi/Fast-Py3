@@ -78,7 +78,7 @@ Online versions are available, just click the [`Online`] link to run the demo.
 [17]: https://github.com/Huixxi/Fast-Py3/blob/master/00%20Basic%20Python3/07_Print_Methods.ipynb
 
 [20]: https://github.com/Huixxi/Fast-Py3/blob/master/01%20Function/00_Def_Function.ipynb
-[21]: https://github.com/Huixxi/Fast-Py3/blob/master/01%20Function/01_Functional_Tools.ipynb
+[21]: https://github.com/Huixxi/Fast-Py3/blob/master/01%20Function/01_Function_Tools.ipynb
 [22]: https://github.com/Huixxi/Fast-Py3/blob/master/01%20Function/02_Decorator.ipynb
 [23]: https://github.com/Huixxi/Fast-Py3/blob/master/01%20Function/03_Generator.ipynb
 [24]: https://github.com/Huixxi/Fast-Py3/blob/master/01%20Function/04_Pythonic_Way.ipynb
