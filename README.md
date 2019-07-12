@@ -34,7 +34,7 @@ Online versions are available, just click the [`Online`] link to run the demo.
 
 + **Function**
   * 00 [Def Function & Parameters][20] **[**[Online][200]**]**
-  * 01 [Functional Programming:map/reduce/zip/filter/sorted/lambda][21] **[**[Online][201]**]**
+  * 01 [Functional Programming:`map`/`reduce`/`zip`/`filter`/`sorted`/`lambda`][21] **[**[Online][201]**]**
   * 02 [Decorator][22] **[**[Online][202]**]**
   * 03 [Generator][23] **[**[Online][203]**]**
   * 04 [Pythonic Way: iterator][24] **[**[Online][204]**]**
@@ -42,7 +42,7 @@ Online versions are available, just click the [`Online`] link to run the demo.
 
 + **Object Oriented Programming-OOP**
   * 00 [Model][30]
-  * 01 [Object_Class(Basic):Class/Inherite/Polymorphism][31]
+  * 01 [Object_Class(Basic):`Class`/`Inherit`/`Polymorphism`][31]
   * 02 [Object_Oriented_Programming(OOP)][32]
   * 03 [Object_Oriented_Programming(OOP)High Level][33]
 
