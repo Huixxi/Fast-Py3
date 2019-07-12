@@ -7,7 +7,10 @@ This is a basic tutorial of python3 for beginners. From **Basic Datatypes** to *
 It is mainly based on [Liao Xuefeng's Python3 Tutorial][1] and book [Begining Python from Novice to Professional 3rd Edition][2]. It also includes some other useful points about python3.  
 
 ## Installation
-Go python official website: https://www.python.org/ to download and install.(If you are using Linux(ubuntu/redhat...) or Mac, there is no need to do so, because python is a build-in software on these platforms.)
+Go python official website: https://www.python.org/ to download and install.(If you are using Linux(ubuntu/redhat...) or Mac, there is no need to do so, because python is a build-in software on these platforms.)  
+**Installation of third-party modules:**  
+* `pip(pip3) install 'package name'` (`pip3` for `python3`)
+* `conda install 'package ame'` (if you have installed `Anaconda`)
 
 ## Python IDE Recommend
 * [PyCharm](https://www.jetbrains.com/pycharm/) is highly recommended. It is free(the community version), concise and efficient, which is suited to large project development.
