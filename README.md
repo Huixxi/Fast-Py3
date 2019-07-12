@@ -74,12 +74,12 @@ Online versions are available, just click the [`Online`] link to run the demo.
 [16]: https://github.com/Huixxi/Fast-Py3/blob/master/00%20Basic%20Python3/06_Character_Encoding.ipynb
 [17]: https://github.com/Huixxi/Fast-Py3/blob/master/00%20Basic%20Python3/07_Print_Methods.ipynb
 
-[20]: https://github.com/Huixxi/Python3-For-Novice/blob/master/01%20Function/00_Def_Function.ipynb
-[21]: https://github.com/Huixxi/Python3-For-Novice/blob/master/01%20Function/01_Functional_Programming.ipynb
-[22]: https://github.com/Huixxi/Python3-For-Novice/blob/master/01%20Function/02_Decorator.ipynb
-[23]: https://github.com/Huixxi/Python3-For-Novice/blob/master/01%20Function/03_Generator.ipynb
-[24]: https://github.com/Huixxi/Python3-For-Novice/blob/master/01%20Function/04_Pythonic_Way.ipynb
-[25]: https://github.com/Huixxi/Python3-For-Novice/blob/master/01%20Function/05_FILE_IO.ipynb
+[20]: https://github.com/Huixxi/Fast-Py3/blob/master/01%20Function/00_Def_Function.ipynb
+[21]: https://github.com/Huixxi/Fast-Py3/blob/master/01%20Function/01_Functional_Programming.ipynb
+[22]: https://github.com/Huixxi/Fast-Py3/blob/master/01%20Function/02_Decorator.ipynb
+[23]: https://github.com/Huixxi/Fast-Py3/blob/master/01%20Function/03_Generator.ipynb
+[24]: https://github.com/Huixxi/Fast-Py3/blob/master/01%20Function/04_Pythonic_Way.ipynb
+[25]: https://github.com/Huixxi/Fast-Py3/blob/master/01%20Function/05_FILE_IO.ipynb
 
 [30]: https://github.com/Huixxi/Python3-For-Novice/blob/master/02%20Object%20Oriented%20Programming-OOP/00_Model.ipynb
 [31]: https://github.com/Huixxi/Python3-For-Novice/blob/master/02%20Object%20Oriented%20Programming-OOP/01_Object_Class(Basic).ipynb
