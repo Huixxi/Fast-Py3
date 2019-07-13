@@ -45,8 +45,9 @@ Online versions are available, just click the [`Online`] link to run the demo.
   * 01 [Magic Method & High Level OOP][31] **[**[Online][301]**]**
 
 + **Exception Handling**
-  * 00 [Exception Handling-A: try...except...finally...][40]
-  * 01 [Exception Handling-B][41]
+  * 00 [Exception Handling-A: `try...except...finally...`][40] **[**[Online][400]**]**
+  * 01 [Exception Handling-B][41] **[**[Online][401]**]**
+  * 02 [A_Logger_Demo][42] **[**[Online][402]**]**
 
 + **Multi Threading&Processing**
   * 00 [Multi_Threading][50]
@@ -86,8 +87,9 @@ Online versions are available, just click the [`Online`] link to run the demo.
 [30]: https://github.com/Huixxi/Fast-Py3/blob/master/02%20Object%20Oriented%20Programming-OOP/00_Object_Oriented_Programming(OOP).ipynb
 [31]: https://github.com/Huixxi/Fast-Py3/blob/master/02%20Object%20Oriented%20Programming-OOP/01_Object_Oriented_Programming(OOP)High_Level.ipynb
 
-[40]: https://github.com/Huixxi/Python3-For-Novice/blob/master/03%20Exception%20Handling/00_Exception_Handling-A.ipynb
-[41]: https://github.com/Huixxi/Python3-For-Novice/blob/master/03%20Exception%20Handling/01_Exception_Handling-B.ipynb
+[40]: https://github.com/Huixxi/Fast-Py3/blob/master/03%20Exception%20Handling/00_Exception_Handling_A.ipynb
+[41]: https://github.com/Huixxi/Fast-Py3/blob/master/03%20Exception%20Handling/01_Exception_Handling_B.ipynb
+[42]: https://github.com/Huixxi/Fast-Py3/blob/master/03%20Exception%20Handling/02_A_Logger_Demo.ipynb
 
 [50]: https://github.com/Huixxi/Python3-For-Novice/blob/master/04%20Multi%20Threading_Processing/00_Multi_Threading.ipynb
 [51]: https://github.com/Huixxi/Python3-For-Novice/blob/master/04%20Multi%20Threading_Processing/01_Multi_Processing.ipynb
@@ -114,3 +116,7 @@ Online versions are available, just click the [`Online`] link to run the demo.
 
 [300]: https://colab.research.google.com/drive/1HYz9HSKUVvE0FcAEZZRC8QGCmcjvgzdf
 [301]: https://colab.research.google.com/drive/1gdlpOwbonFB3y7I9gbxEOHyCUoytdJTp
+
+[400]: https://colab.research.google.com/drive/1YayLzNLjf-kM7469oLkwQnC3-AzTTBvN
+[401]: https://colab.research.google.com/drive/1INHD2l1useJmntFtcfxy4EyNsNwAvlvh
+[402]: https://colab.research.google.com/drive/18Cx-h5DNulsuVesi8fTuqpdfbZBe3U06
