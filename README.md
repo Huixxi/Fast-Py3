@@ -50,14 +50,20 @@ Online versions are available, just click the [`Online`] link to run the demo.
   * 02 [A_Logger_Demo][42] **[**[Online][402]**]**
 
 + **Multi Threading&Processing**
-  * 00 [Multi_Threading][50]
-  * 01 [Multi_Processing][51]
+  * 00 [Multi_Threading][50] **[**[Online][500]**]**
+  * 01 [Multi_Processing][51] **[**[Online][501]**]**
   
 + **Built-in_Modules**
-  * 00 [Re: Regular_Expression][61]
-  * 01 [Common Modules: `datatime`/`collections`/`hashlib`][62]
+  * 00 [Re: Regular_Expression][61] **[**[Online][600]**]**
+  * 01 [Common Modules: `datatime`/`collections`/`hashlib`][62] **[**[Online][601]**]**
 
-
++ **Useful Tools**
+To be continue ...
+  * Numpy
+  * Scipy
+  * Matplotlib
+  * Pandas
+  * Cython
 
 
 
@@ -120,3 +126,9 @@ Online versions are available, just click the [`Online`] link to run the demo.
 [400]: https://colab.research.google.com/drive/1YayLzNLjf-kM7469oLkwQnC3-AzTTBvN
 [401]: https://colab.research.google.com/drive/1INHD2l1useJmntFtcfxy4EyNsNwAvlvh
 [402]: https://colab.research.google.com/drive/18Cx-h5DNulsuVesi8fTuqpdfbZBe3U06
+
+[500]: https://colab.research.google.com/drive/1N7AT3aWvWxMZMOU00HsvhgtRUTYYUsOT
+[501]: https://colab.research.google.com/drive/17VOiuMyqnhvo-ZSJpEnWZu0rECsh08tz
+
+[600]: https://colab.research.google.com/drive/10rUr5OA4Fp9q6bESOKJOPwxChMcls6gs
+[601]: https://colab.research.google.com/drive/1lRwfZy2cIlcYDBZXvLBOHM26q6zaYMLN
