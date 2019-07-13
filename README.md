@@ -41,10 +41,8 @@ Online versions are available, just click the [`Online`] link to run the demo.
   * 05 [File IO][25] **[**[Online][205]**]**
 
 + **Object Oriented Programming-OOP**
-  * 00 [Model][30]
-  * 01 [Object_Class(Basic):`Class`/`Inherit`/`Polymorphism`][31]
-  * 02 [Object_Oriented_Programming(OOP)][32]
-  * 03 [Object_Oriented_Programming(OOP)High Level][33]
+  * 00 [Object_Oriented_Programming(OOP):`Class`/`Inherit`/`Polymorphism`][30] **[**[Online][300]**]**
+  * 01 [Magic Method & High Level OOP][31] **[**[Online][301]**]**
 
 + **Exception Handling**
   * 00 [Exception Handling-A: try...except...finally...][40]
@@ -85,10 +83,8 @@ Online versions are available, just click the [`Online`] link to run the demo.
 [24]: https://github.com/Huixxi/Fast-Py3/blob/master/01%20Function/04_Pythonic_Way.ipynb
 [25]: https://github.com/Huixxi/Fast-Py3/blob/master/01%20Function/05_FILE_IO.ipynb
 
-[30]: https://github.com/Huixxi/Python3-For-Novice/blob/master/02%20Object%20Oriented%20Programming-OOP/00_Model.ipynb
-[31]: https://github.com/Huixxi/Python3-For-Novice/blob/master/02%20Object%20Oriented%20Programming-OOP/01_Object_Class(Basic).ipynb
-[32]: https://github.com/Huixxi/Python3-For-Novice/blob/master/02%20Object%20Oriented%20Programming-OOP/02_Object_Oriented_Programming(OOP).ipynb
-[33]: https://github.com/Huixxi/Python3-For-Novice/blob/master/02%20Object%20Oriented%20Programming-OOP/03_Object_Oriented_Programming(OOP)_High_Level.ipynb
+[30]: https://github.com/Huixxi/Fast-Py3/blob/master/02%20Object%20Oriented%20Programming-OOP/00_Object_Oriented_Programming(OOP).ipynb
+[31]: https://github.com/Huixxi/Fast-Py3/blob/master/02%20Object%20Oriented%20Programming-OOP/01_Object_Oriented_Programming(OOP)High_Level.ipynb
 
 [40]: https://github.com/Huixxi/Python3-For-Novice/blob/master/03%20Exception%20Handling/00_Exception_Handling-A.ipynb
 [41]: https://github.com/Huixxi/Python3-For-Novice/blob/master/03%20Exception%20Handling/01_Exception_Handling-B.ipynb
@@ -115,3 +111,6 @@ Online versions are available, just click the [`Online`] link to run the demo.
 [203]: https://colab.research.google.com/drive/1QWC-BG3QRZbTjh0MFHcJbLQ2hm1XLOGR
 [204]: https://colab.research.google.com/drive/17QAfi0SLWWsuEBbOvqf2myBXcj7gnD_u
 [205]: https://colab.research.google.com/drive/1pOEFqMI9jStiy902gdyvZ1WwTg_lXGSp
+
+[300]: https://colab.research.google.com/drive/1HYz9HSKUVvE0FcAEZZRC8QGCmcjvgzdf
+[301]: https://colab.research.google.com/drive/1gdlpOwbonFB3y7I9gbxEOHyCUoytdJTp
