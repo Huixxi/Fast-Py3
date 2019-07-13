@@ -53,9 +53,9 @@ Online versions are available, just click the [`Online`] link to run the demo.
   * 00 [Multi_Threading][50]
   * 01 [Multi_Processing][51]
   
-+ **Others**
-  * 00 [Regular_Expression][61]
-  * 01 [Usual_Built-in_Model][62]
++ **Built-in_Modules**
+  * 00 [Re: Regular_Expression][61]
+  * 01 [Common Modules: `datatime`/`collections`/`hashlib`][62]
 
 
 
@@ -95,7 +95,7 @@ Online versions are available, just click the [`Online`] link to run the demo.
 [51]: https://github.com/Huixxi/Fast-Py3/blob/master/04%20Multi%20Threading_Processing/01_Multi_Processing.ipynb
 
 [61]: https://github.com/Huixxi/Fast-Py3/blob/master/05%20Others/00_Regular_Expression.ipynb
-[62]: https://github.com/Huixxi/Fast-Py3/blob/master/05%20Others/01_Usual_Built-in_Model.ipynb
+[62]: https://github.com/Huixxi/Fast-Py3/blob/master/05%20Built-in%20Modules/01_Common_Modules.ipynb
 
 
 [100]: https://colab.research.google.com/drive/1MCXL3TyFveA7ByTnZ2lvisQhxvlkBJbx
