@@ -1,5 +1,5 @@
 ![](https://github.com/Huixxi/Fast-Py3/blob/master/images/a.jpg)
-# A Fast Python3 tutoial For Beginners.  
+# A Fast Python3 Tutoial For Beginners.  
 Python is a very popular programming language which is very useful, powerful, interesting and easy to learn.  
 
 ## Introduction.
@@ -91,11 +91,11 @@ Online versions are available, just click the [`Online`] link to run the demo.
 [41]: https://github.com/Huixxi/Fast-Py3/blob/master/03%20Exception%20Handling/01_Exception_Handling_B.ipynb
 [42]: https://github.com/Huixxi/Fast-Py3/blob/master/03%20Exception%20Handling/02_A_Logger_Demo.ipynb
 
-[50]: https://github.com/Huixxi/Python3-For-Novice/blob/master/04%20Multi%20Threading_Processing/00_Multi_Threading.ipynb
-[51]: https://github.com/Huixxi/Python3-For-Novice/blob/master/04%20Multi%20Threading_Processing/01_Multi_Processing.ipynb
+[50]: https://github.com/Huixxi/Fast-Py3/blob/master/04%20Multi%20Threading_Processing/00_Multi_Threading.ipynb
+[51]: https://github.com/Huixxi/Fast-Py3/blob/master/04%20Multi%20Threading_Processing/01_Multi_Processing.ipynb
 
-[61]: https://github.com/Huixxi/Python3-For-Novice/blob/master/05%20Others/00_Regular_Expression.ipynb
-[62]: https://github.com/Huixxi/Python3-For-Novice/blob/master/05%20Others/01_Usual_Built-in_Model.ipynb
+[61]: https://github.com/Huixxi/Fast-Py3/blob/master/05%20Others/00_Regular_Expression.ipynb
+[62]: https://github.com/Huixxi/Fast-Py3/blob/master/05%20Others/01_Usual_Built-in_Model.ipynb
 
 
 [100]: https://colab.research.google.com/drive/1MCXL3TyFveA7ByTnZ2lvisQhxvlkBJbx
