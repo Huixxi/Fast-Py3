@@ -57,7 +57,7 @@ Online versions are available, just click the [`Online`] link to run the demo.
   * 00 [Re: Regular_Expression][61] **[**[Online][600]**]**
   * 01 [Common Modules: `datatime`/`collections`/`hashlib`][62] **[**[Online][601]**]**
 
-+ **Useful Tools**
++ **Useful Tools**  
 To be continue ...
   * Numpy
   * Scipy
