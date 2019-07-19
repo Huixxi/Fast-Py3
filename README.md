@@ -13,7 +13,7 @@ Go python official website: https://www.python.org/ to download and install.(If 
 * `conda install 'package ame'` (if you have installed `Anaconda`)
 
 ## Python IDE Recommend
-* [PyCharm](https://www.jetbrains.com/pycharm/) is highly recommended. It is free(the community version), concise and efficient, which is suited to large project development.
+* [PyCharm](https://www.jetbrains.com/pycharm/) is highly recommended. It is free(the community version), cross-platform(PC, Mac, Linux), concise and efficient, which is suited to large project development.
 * [Jupyter Notebook](https://jupyter.org/) is also highly recommended. It is fast, flexible, lightweight, interactive and efficient, which is suited to small script coding and testing. You will fall in love with it immediately. [How to setup jupyter notebook.][3]
 
 ## Useful Websites
