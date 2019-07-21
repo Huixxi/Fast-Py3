@@ -100,7 +100,7 @@ To be continue ...
 [50]: https://github.com/Huixxi/Fast-Py3/blob/master/04%20Multi%20Threading_Processing/00_Multi_Threading.ipynb
 [51]: https://github.com/Huixxi/Fast-Py3/blob/master/04%20Multi%20Threading_Processing/01_Multi_Processing.ipynb
 
-[61]: https://github.com/Huixxi/Fast-Py3/blob/master/05%20Others/00_Regular_Expression.ipynb
+[61]: https://github.com/Huixxi/Fast-Py3/blob/master/05%20Built-in%20Modules/00_Regular_Expression.ipynb
 [62]: https://github.com/Huixxi/Fast-Py3/blob/master/05%20Built-in%20Modules/01_Common_Modules.ipynb
 
 
