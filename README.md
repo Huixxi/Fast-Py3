@@ -53,7 +53,7 @@ Online versions are available, just click the [`Online`] link to run the demo.
   * 00 [Multi_Threading][50] **[**[Online][500]**]**
   * 01 [Multi_Processing][51] **[**[Online][501]**]**
   
-+ **Built-in_Modules**
++ **Built-in Modules**
   * 00 [Re: Regular_Expression][61] **[**[Online][600]**]**
   * 01 [Common Modules: `datatime`/`collections`/`hashlib`][62] **[**[Online][601]**]**
 
