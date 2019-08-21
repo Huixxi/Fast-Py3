@@ -104,7 +104,7 @@ To be continue ...
 [62]: https://github.com/Huixxi/Fast-Py3/blob/master/05%20Built-in%20Modules/01_Common_Modules.ipynb
 
 
-[100]: https://colab.research.google.com/drive/1MCXL3TyFveA7ByTnZ2lvisQhxvlkBJbx
+[100]: https://drive.google.com/file/d/1MCXL3TyFveA7ByTnZ2lvisQhxvlkBJbx/view?usp=sharing
 [101]: https://colab.research.google.com/drive/1YrxK5Mm1OaiwlO5UdZvu-ZO-GBu898Oz
 [102]: https://colab.research.google.com/drive/1U_x_--uB0Mp3ZL9zsND3garaPeOip13N
 [103]: https://colab.research.google.com/drive/1-53UYLXoMdwjs5Wob_NYIZb2SWm7R6bV
